@@ -1,0 +1,33 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    background-color: black;
+}
+
+
+.carousel{
+    height: 90vh;
+}
+
+.item {
+    height: 90vh;
+    background-size: cover;
+    background-position: center;
+  }
+
+
+  
+  .carousel-caption {
+    bottom: 30%;
+    background: #00000090;
+  }
+
+  h3{
+    background: none;
+
+  }
+
+  
+  .container{
+    padding: 20px;
+  }
